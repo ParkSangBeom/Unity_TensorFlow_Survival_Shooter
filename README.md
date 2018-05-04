@@ -9,3 +9,4 @@ Tensorflow 1.6.0
 
 ![Alt text](./Image/Image1.png)
 ![Alt text for your video](https://youtu.be/Dg6k8A0EFG0)
+[![Watch the video](http://img.youtube.com/vi/Dg6k8A0EFG0/1.jpg)](https://youtu.be/Dg6k8A0EFG0)
