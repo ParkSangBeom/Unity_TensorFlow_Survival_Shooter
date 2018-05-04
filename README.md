@@ -11,7 +11,7 @@ Tensorflow 1.6.0
 [![Watch the video](http://img.youtube.com/vi/Dg6k8A0EFG0/0.jpg)](https://youtu.be/Dg6k8A0EFG0)
 
 <object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="movie" value="https://youtu.be/Dg6k8A0EFG0" />
   <param name="wmode" value="transparent" />
   <embed src="https://youtu.be/Dg6k8A0EFG0"
          type="application/x-shockwave-flash"
