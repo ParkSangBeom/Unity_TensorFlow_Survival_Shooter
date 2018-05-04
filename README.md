@@ -25,6 +25,5 @@
 
 - 캐릭터가 사망하였을경우 모아둔 정보들을 Tensorflow에 보내서 Train을 하게 한다.
 
-- 
-
+## 영상
 [![YouTube](http://img.youtube.com/vi/Dg6k8A0EFG0/0.jpg)](https://youtu.be/Dg6k8A0EFG0)
